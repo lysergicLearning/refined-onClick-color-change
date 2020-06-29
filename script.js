@@ -1,6 +1,6 @@
   const colorBtn = document.querySelector('.colorBtn');
   const bodyBcg = document.querySelector('body');
-  const colors = ['lightBlue','beige','pink','lightGreen','lightGrey'];
+  const colors = ['lightBlue','beige','pink','lightGreen','lightGrey','white'];
   const maxColors = colors.length;
   var displayColorIndx = -1;
 
